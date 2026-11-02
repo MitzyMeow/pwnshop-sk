@@ -1,4 +1,4 @@
-FROM node:18-bullseye
+FROM node:18.20.4-bullseye
 WORKDIR /usr/src/app
 
 # Create non-root user for app
